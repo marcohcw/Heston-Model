@@ -1,7 +1,7 @@
 # Heston Stochastic Volatiltiy Modelling 
 
 ## A full implementation of the Heston model to price European call options using historical data
-This project implements the Heston Stochastic Volatility Model, where both the price and volatility follows a Brownian motion. The model captures the dynamics of asset prices with stochastic volatility, providing a more realistic framework compared to the traditional Black-Sholes model.
+This project implements the Heston Stochastic Volatility Model, where both the price and volatility follows a Brownian motion. The model captures the dynamics of asset prices with stochastic volatility, providing a more realistic framework compared to the traditional Black-Sholes model. Code is in Jupyter Notebook in the Heston_model_venv folder written in Python.
 
 ## Contents
 - **Implementation**: Code for the Heston model including the characteristic function, inverse fourier transform and numerical integration to obtain closed form price for European options
